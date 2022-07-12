@@ -13,3 +13,7 @@ You get a peculiar wave
 # What happens if you difference it?
 * Instead of adding you subtract 
 * You get the same exact wave but upside down
+
+# What happens when you multiply it?
+* It cancles itself out and disappers
+* nothing
